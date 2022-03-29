@@ -1,0 +1,15 @@
+Q)“Double Trouble” is really a particular instantiation of the fundamental combinatorial game. What is the real name of the game, who “solved” it, and
+when? Where does it show up in popular culture?
+Ans:
+"Nim" is the modern name.
+
+Variants of Nim have been played since ancient times. The game is said to have originated in China—it closely resembles the Chinese game
+of 捡石子 jiǎn-shízi, or "picking stones"—but the origin is uncertain; the earliest European references to Nim are from the beginning of the 16th century.
+
+Its current name was coined by Charles L. Bouton of Harvard University, who also developed the complete theory of the game in 1901.
+
+In Pop culture: In another game which is commonly known as Nim (but is better called the subtraction game), an upper bound is imposed on the number of objects
+that can be removed in a turn. Instead of removing arbitrarily many objects, a player can only remove 1 or 2 or ... or k at a time.
+This game is commonly played in practice with only one heap (for instance with k = 3 in the game Thai 21 on Survivor: Thailand, where it appeared
+as an Immunity Challenge).
+Other variations: The 21 game and The 100 game
