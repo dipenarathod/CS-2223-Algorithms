@@ -1,0 +1,64 @@
+Lucas Numbers:
+
+Lucas' other findings:
+Lucas devised methods for testing the primality of numbers. In 1857, at age 15, Lucas began testing the 
+primality of 2^127 − 1 by hand, using Lucas sequences. In 1876, after 19 years of testing, he finally proved 
+that 2^127 − 1 was prime; this would remain the largest known Mersenne prime for three-quarters of a century. 
+This may stand forever as the largest prime number proven by hand. Later Derrick Henry Lehmer refined Lucas's 
+primality tests and obtained the Lucas–Lehmer primality test.
+
+He worked on the development of the umbral calculus.
+
+The ratio of succesive Lucas numbers converge to the golden ratio.
+
+The order of growth is exponential.
+
+My own sequence, starting terms are 3 and 2. 
+My sequence also converges to the golden ratio. Order of growth is exponential.
+
+Subirach's magic square:
+
+The greatest number of combinations(1364) form the sum 66.
+
+This is interesting because the number of combinations is symmetric about 66. 
+Number of combinations that sum to 0 = Number of combinations that sum to 132 = 1 and so on. 
+66 is also 132/2.
+
+Report detailing where it can be found, explaining why it is named what it is named, and
+discussing its “mystical” significance:
+
+Subirachs took an existing magic square, from German painter Albrecht Dürer’s engraving Melencolia I, and adapted it, 
+repeating the numbers 14 and 10 instead of 12 and 16, to make it add up to 33, the age Jesus is traditionally believed to have been executed. 
+And we say traditionally believed because, historically, this has never been confirmed 100%. Nevertheless, it is true that 33 is also a symbolic number, 
+and not at all random, based on the importance of the number 3 in the Christian world, as the symbol of the trinity. 
+
+Plus, in the magic square at the Sagrada Família, there is also a sort of hidden subliminal signature: adding up the numbers that repeat and looking at their 
+correspondence in the Roman alphabet, we get the initials INRI. The initials INRI means Iesus Nazarenus Rex Iudaeorum (Jesus of Nazareth King of the Jews). 
+This is the sign that Pontius Pilate wrote on the Jesus’ cross and here, his signature.
+
+Subirach chose these four numbers because there is one from each row, column, diagonal and quadrant, and also because the sum of these repeated numbers is 48, 
+or four times twelve. All within the symbolic framework of what the numbers represent.
+
+Subirachs’ square consists of many of these same features.  However, Subirachs chose to create a square with the magic sum of 33. 
+To fashion such a square, four of Durer’s cell numbers are reduced by one and rotated 180 degrees. The numbers 12 and 16 become 11 and 15, while 11 and 15 become 10 and 14.  
+Numbers 12 and 16 are therefore missing from the square, while 10 and 14 have become duplicated.
+
+Interestingly, the first scene of the Passion facade, which also involves Judas, includes a verse from John- 13:27; ‘what you are about to do, do quickly’.   
+This verse refers to Judas.   Could the duplicating numbers of the magic square suggest the verse John 10:14? Could a secret message to be hidden here?  
+Jesus says in John 10:14; “I am the good shepherd; I know my sheep and my sheep know me.”
+
+Jesus knew Judas would betray him.  He knew who his followers were and were not.  Considering the balance characterized by Magic Squares, 
+one may also want to keep in mind the Nativity façade on the opposite side.  The scene in the opposite position of the kiss of Judas scene 
+(displaying the square) depicts shepherds and sheep. Does this support the existence of a deeper meaning for the magic square?
+
+The magic square is also included on the central door of the Passion facade.  If the message is intended, one may wonder if a connection to the scenes and the verse to 
+the door is to be found.  Could it imply something similar to the story told about Alexander the Great coming to the gates of Paradise?
+Luke 13: 24-25 shares the story of the Narrow door; “Make every effort to enter through the narrow door, because many, I tell you, will try to enter and will not be able to.  
+Once the owner of the house gets up and closes the door, you will stand outside knocking and pleading, ‘Sir, open the door for us.’  But he will answer, ‘I don’t know you or 
+where you come from.’”
+
+As John 10:14 speaks of, I know my sheep, the similarity is worth pondering.
+
+The Sagrada Familia is an absolute amazing structure.  Construction began in 1883 and is planned on not being completed until 2025.  
+With the amount of time dedicated to the immense building, one can only imagine, more than just a few secrets, are being represented in its design.
+

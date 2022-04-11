@@ -1,0 +1,16 @@
+Lucas' other findings:
+Lucas devised methods for testing the primality of numbers. In 1857, at age 15, Lucas began testing the 
+primality of 2^127 − 1 by hand, using Lucas sequences. In 1876, after 19 years of testing, he finally proved 
+that 2^127 − 1 was prime; this would remain the largest known Mersenne prime for three-quarters of a century. 
+This may stand forever as the largest prime number proven by hand. Later Derrick Henry Lehmer refined Lucas's 
+primality tests and obtained the Lucas–Lehmer primality test.
+
+He worked on the development of the umbral calculus.
+
+The ratio of succesive Lucas numbers converge to the golden ratio.
+
+The order of growth is exponential.
+
+My own sequence, starting terms are 3 and 2. 
+My sequence also converges to the golden ratio. Order of growth is exponential.
+
